@@ -1,2 +1,2 @@
-# trt-sample-learning
-【学习】对tensorrt官方提供的sample进行逐行的注释，便于自我理解
+# python-spider-learning
+【学习链接】：https://www.bilibili.com/video/BV1i54y1h75W
